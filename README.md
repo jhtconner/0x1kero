@@ -4,7 +4,7 @@ I'm a BSc Computer Science student at BUL.
 
 - 🏢 I'm currently in the 2nd year of my degree, and will graduate in 2027.
 - ⚙️ I use: ```.java```, ```.py```, ```.html```, ```.css```, ```.js```, ```.json```, ```.yml```, ```.sql```, ```.xml```, ```.md```
-- 🌱 Learning more about and studying: CS D&A's, Machine Learning, Linux.
+- 🌱 Learning more about and studying: D&A's, Machine Learning, Linux.
 - 💬 Reach out about: Any tech related opportunities, or general chat :)
 <br><br>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
