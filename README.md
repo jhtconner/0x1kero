@@ -1,4 +1,4 @@
-# Hey, I'm Ke7o 🫧
+# Hey, I'm John (Ke7o) 🫧
 
 I'm a BSc Computer Science student at BUL. 
 
