@@ -1,6 +1,6 @@
 # Hey, I'm John (Kero) 🫧
 
-I'm a 2nd year BSc Computer Science student at BUL. 
+I'm a BSc Computer Science student at BUL. 
 
 - 🏢 I'm currently in the 2nd year of my degree, and will graduate in 2027.
 - ⚙️ I use: ```.java```, ```.py```, ```.html```, ```.css```, ```.js```, ```.json```, ```.yml```, ```.sql```, ```.xml```, ```.md```
