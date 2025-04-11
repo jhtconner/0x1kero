@@ -10,3 +10,6 @@ I'm a BSc Computer Science student at BUL.
 - 🪟 You should also checkout my [website!](https://0x1kero.dev/)
 <br><br> ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎
 ![](https://64.media.tumblr.com/147070658f28ddade6fd61796a012b04/tumblr_p8kl4myGyI1u9hf7po1_1280.gif)
+
+
+Co-autored-by: Linus Torvalds <torvalds@linux-foundation.org>
