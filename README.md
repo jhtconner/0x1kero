@@ -1,4 +1,4 @@
-# Hey, I'm John (Kero) 🫧
+# Hey, I'm John 🎲
 
 I'm a BSc Computer Science student at BUL. 
 
